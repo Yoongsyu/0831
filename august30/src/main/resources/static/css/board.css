@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+table {
+	width: 900px;
+	height: auto;
+}
+
+th{
+	background-color: yellow;
+}
